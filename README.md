@@ -1,8 +1,6 @@
 # 📊 Amazon Sales Dashboard (Practice Project)
 
-## 📷 Dashboard Preview
-
-![Company Logo](https://github.com/Bushra092//Amazon-Sales-Dashboard-Practice-Project-/blob/main/image.png)
+![Company Logo](https://github.com/Bushra092/Amazon-Sales-Dashboard-Practice-Project-/blob/main/image.png) 
 
 ## 📌 Project Overview
 
